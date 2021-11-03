@@ -4,6 +4,8 @@ public class DataTypes {
 
 	public static void main(String[] args) {
 		//data types:
+		
+		
 		//Java is strict in types
 		
 		/** Data types are 2 
