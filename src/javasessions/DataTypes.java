@@ -90,7 +90,7 @@ public class DataTypes {
 		
 		float f = 12.33f;
 		float f1 = (float)33.33;
-		System.out.println(f1);
+		System.out.println(f1+f);
 		
 		double d1 = 12.55;
 		double d2 = 55.22;
@@ -103,6 +103,7 @@ public class DataTypes {
 		boolean isActive = true;
 		boolean isEnabled = false;
 		System.out.println(isActive);
+		System.out.println(isEnabled);
 				
 	}
 
